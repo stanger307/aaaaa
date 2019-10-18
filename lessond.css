@@ -1,0 +1,42 @@
+
+title{
+    font-family: 'Mansalva', cursive;
+    color: rgba(95, 109, 124, 0.445);
+}
+
+body{
+    border: 3px solid rgb(255, 138, 3);
+    background-color: aqua;
+    background-image: url('a.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0px;
+    width: 1340px;
+    height:1350px;
+}
+.nav{
+    color: crimson;
+    font-weight: bold;
+}
+a:hover{
+    background-color: rgb(255, 133, 85);
+}
+#s1{
+    color: #dcffff;
+    background-color:#232323;
+    font-weight: bold;
+}
+h1{
+    background-color: brown;
+    color:#eae6e4;
+}
+ul{
+    background-color: #634747;
+    width: fit-content;
+}
+.ita{
+    font-weight: normal;
+    font-style: italic;
+    color: #94ffff;
+}

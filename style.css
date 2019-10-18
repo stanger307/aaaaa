@@ -12,7 +12,7 @@ body{
   padding: 5px 25px;
   font-size: 18px;
   margin: 20px 0;
-  color: #444;
+  color: #000;
 }
 
 h1 {
@@ -59,7 +59,7 @@ section{
 aside{
   float: right;
   width: 30%px;
-  background-color: aqua;
+  background-color: #4e696bb5;
   padding: 10px;
   margin: 20px;
 }
@@ -71,9 +71,17 @@ footer{
 }
 
 aside h3{
-  background-color: brown;
-  color: blueviolet;
+  background-color: #da8039d6;
+  color: #10355a;
   padding: 10px;
+}
+
+aside ul{
+  color: yellow;
+}
+
+aside a{
+  color: green;
 }
 
 h1, h2, h3{

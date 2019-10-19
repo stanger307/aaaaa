@@ -127,3 +127,7 @@ header h2{
   text-shadow: 2px 2px;
   font-weight: bold;
 }
+
+h2{
+  font-weight:normal;
+}

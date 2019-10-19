@@ -87,6 +87,10 @@ h1, h3{
   margin: 30px;
 }
 
+h1{
+  margin: 0 0 0 60px;
+}
+
 article{
   padding: 20px 0;
   border-bottom: 1px solid gray;
@@ -97,5 +101,11 @@ article:last-child{
 }
 
 #logo{
-  font-size: 15px;
+  font-size: 12px;
+  color: red;
+  background-color: blue;
+  border: 2px solid red;
+}
+header h2{
+  color:orange;
 }

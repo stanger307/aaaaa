@@ -31,9 +31,10 @@ a:hover{
 }
 
 a:-webkit-any-link {
- color: blue;
+ color: #201821;
  font-weight: bold;
  text-decoration: inherit;
+ background-color: #ef1115f5;
 }
 
 .wrapped{
@@ -119,10 +120,12 @@ article:last-child{
 }
 
 header h2{
-  color:#e6d553;
+  color:#dc151b;
+  text-shadow: 1px 1px;
 }
 
 .hole{
-  color: black;
+  color: #000000bd;
+  text-shadow: 2px 2px;
   font-weight: bold;
 }

@@ -23,6 +23,8 @@ h1 {
 nav{
   float: right;
   padding: 5px 5px;
+  color: red;
+  text-color: red;
 }
 
 
@@ -102,10 +104,15 @@ article:last-child{
 
 #logo{
   font-size: 12px;
-  color: red;
-  background-color: blue;
-  border: 2px solid red;
+  color: #e6d553;
+  background-color: #405471;
+  border: 2px solid #e6d553;
 }
+
 header h2{
-  color:orange;
+  color:#e6d553;
+}
+
+.hole{
+  color:black;
 }

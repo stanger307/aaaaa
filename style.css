@@ -25,20 +25,17 @@ nav{
   padding: 5px 5px;
 }
 
-a:hover{
-  color:red;
-  background-color:green;
-}
-
 a:-webkit-any-link {
  color: #201821;
  font-weight: bold;
  text-decoration: inherit;
  background-color: #ef1115f5;
+ border: 1px solid grey;
+border-radius: 1px;
 }
 
 .wrapped{
-  width: 800px;
+  width: 1100px;
   margin: 0 auto;
   background-color: whitesmoke;
   border-radius: 10px;
@@ -115,8 +112,9 @@ article:last-child{
 #logo{
   font-size: 12px;
   color: #ddd8d4;
-  background-color: #201821;
+  background-color: #262027;
   border-bottom: 2px solid #ab9273;
+  border-radius: 10px;
 }
 
 header h2{

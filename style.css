@@ -71,6 +71,13 @@ aside.a1{
   margin: 20px;
 }
 
+aside.a2{
+  float: right;
+  width: 35%;
+  padding: 10px;
+  margin: 20px;
+}
+
 footer{
   padding: 20px;
   border-top: 0.5px solid gray;

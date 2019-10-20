@@ -1,7 +1,8 @@
-# Grup 1
-User-agent: Googlebot
-Disallow: /nogooglebot/
+User-agent: Mediapartners-Google
+Disallow: 
 
-# Grup 2
 User-agent: *
+Disallow: /search
 Allow: /
+
+Sitemap: https://darkofee.glitch.me/sitemap.xml

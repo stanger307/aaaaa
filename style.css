@@ -65,7 +65,7 @@ section{
 
 aside{
   float: right;
-  width: 15%px;
+  width: 30%;
   background-color: #4e696bb5;
   padding: 10px;
   margin: 20px;
@@ -136,3 +136,6 @@ main{
   overflow: hidden;
 }
 
+.x{
+  width: 100%;
+}
